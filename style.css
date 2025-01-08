@@ -90,6 +90,11 @@ section {
     gap: 4px;
 }
 
+.currency-box img {
+    width: 52px;
+    height: 52px;
+}
+
 .currency {
     color: #777777;
     font-size: 14px;
